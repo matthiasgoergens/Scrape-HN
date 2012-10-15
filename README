@@ -1,0 +1,5 @@
+Just run Score.py, when you can wait no longer, hit Ctrl-C and it writes out the results in "res.working"
+
+Fire up analysis.py to convert the data to a format that Gnuplot can read.
+
+Feeding in analysis.gnuplot to gnuplot will produce a log-log-graph of comment length versus score.
